@@ -1,0 +1,80 @@
+body
+{
+background-color: #030d45
+}
+
+#head{
+  color: white;
+  text-align: center;
+}
+
+h2{
+  color: white;
+  text-align: center;
+}
+
+#one{
+  color: white;
+  text-align: center;
+  margin: auto;
+  padding-top:20px;
+  font-family: Arial;
+}
+
+#two{
+  color: white;
+  text-align: center;
+  margin: auto;
+  font-family: Arial;
+  padding-top:20px;
+  padding-right: 60px;
+}
+
+h1{
+
+  color: white;
+  text-align: center;
+  margin: auto;
+  font-family: Arial;
+  padding-top: 100px;
+}
+
+#name{
+  color: white;
+  text-align: center;
+}
+
+#box
+{
+text-align: center;
+}
+
+
+#last{
+  color: white;
+  text-align: center;
+}
+
+#ln
+{
+text-align: center;
+}
+
+#email{
+  color: white;
+  text-align: center;
+}
+
+#mail{
+  text-align: center;
+}
+
+.butt{
+  background-color: orange;
+  text-align: center;
+  margin: auto;
+  color black;
+  border: 3px solid white;
+  width: 60px;
+  height: 50px;
+}
